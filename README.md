@@ -70,11 +70,11 @@ Each section is built as a separate reusable React component.
 
 1. Clone the repository
 ```bash
-git clone <https://github.com/ankitvchauhan/23bai70287-exp2-ankit>
+git clone <https://github.com/Kunalmandhan/23bai70452-exp2-kunal-main>
 
 2. Navigate to the project directory
 
-cd 23bai70287-exp2-ankit
+cd 23bai70452-exp2-kunal
 
 3. Install dependencies
 
@@ -94,7 +94,7 @@ The project is deployed using **Vercel**.
 3. Vercel automatically deploys on every push
 4. Access your live site via the provided Vercel URL
 
-**Live Demo:** [Visit the deployed site](https://23bai70287-exp2-ankit.vercel.app)
+**Live Demo:** [Visit the deployed site](https://23bai70452-exp2-kunal.vercel.app)
 
 The project is deployed using Vercel.
 
